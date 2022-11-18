@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jestin K Sunil</h1>
 <h3 align="center">Student at Karunya Institute of Technology and Sciences</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<a href="https://app.daily.dev/jztn"><img src="https://api.daily.dev/devcards/c64abc80c308402298ce0a75070f55ba.png?r=zmy" width="300" alt="Jestin k Sunil's Dev Card"/></a>
 
 - 🌱 I’m currently learning **Computer Science and Engineering**
 
