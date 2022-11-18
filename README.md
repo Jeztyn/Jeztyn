@@ -1,4 +1,4 @@
-<img align="center"src="https://media.giphy.com/media/CTfg7SZKO10Pe/giphy.gif">
+
 <h1 align="center">Hi 👋, I'm Jestin K Sunil</h1>
 <h3 align="center">Student at Karunya Institute of Technology and Sciences</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
