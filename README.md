@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<a href="https://app.daily.dev/jztn"><img src="https://api.daily.dev/devcards/c64abc80c308402298ce0a75070f55ba.png?r=zmy" width="300" alt="Jestin k Sunil's Dev Card"/></a>
+
 # 💫 About Me:
 🔭 I’m currently student at Karunya Institute of Technology and Sciences<br>👯 I’m looking to collaborate on Cloud and Cybersecurity platform<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Cloud web hosting<br>⚡ Fun fact  
 
@@ -12,6 +12,9 @@
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+<a href="https://app.daily.dev/jztn"><img src="https://api.daily.dev/devcards/c64abc80c308402298ce0a75070f55ba.png?r=zmy" width="300" alt="Jestin k Sunil's Dev Card"/></a>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jeztyn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jeztyn&theme=dark&hide_border=false)<br/>
